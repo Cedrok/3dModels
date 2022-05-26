@@ -1,0 +1,18 @@
+{ 
+    "slug"        : "lenovo-sd630v2-2x7mm-1xpci",
+    "description" : "SD630v2 - Half Wide 1U Compute Node - 2*7mm HD + 1*PCI",
+    "category"    : "device",
+    "sizeWDHmm"   : [215 ,608 ,41],
+    "fbxModel"    : "https://github.com/Cedrok/3dModels/blob/master/LENONO/ThinkSystems/lenovo-sd630v2.fbx?raw=true",
+    "attributes"  : {
+      "type"        : "blade",
+      "vendor"      : "LENOVO",
+      "model"       : "7D1K",
+      "weight"      : "3.9 kg",
+      "weightMax"   : "6.4 kg"
+    },
+    "colors" : [],
+    "components"  : [      ],
+    "slots" : [     ]
+   }
+   
